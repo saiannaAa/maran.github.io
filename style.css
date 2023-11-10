@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script:wght@400;600&family=Inconsolata:wght@300&family=Indie+Flower&family=Nosifer&family=Pacifico&family=Pixelify+Sans&family=Playpen+Sans:wght@100&family=Prompt:wght@300&family=Roboto:wght@900&display=swap');
+.nav-logo{
+    height: 100px;
+}
+.site-body{
+    background-image: url(https://images.pexels.com/photos/1341279/pexels-photo-1341279.jpeg?auto=compress&cs=tinysrgb&w=600);
+    height: 100%;
+}
+
+.item-nav{
+   color: white;
+   size: 30px;
+   font-family: 'Poppins', sans-serif;
+  
+}
+.item-nav:hover { 
+    color: rgb(210, 25, 25)
+}
+
+.anchor {
+margin-left: auto;
+}
+.box-left{
+    color: white;
+    height: 400px;
+    font-family: 'Encode Sans', sans-serif;
+    text-align: center;
+}
+
+.box-right{
+    height: auto;
+}
+
+.img-right{
+ height: 300px;
+ padding-left: 80px;
+ padding-top: 80px;
+}
+
+.home-para{
+    font-family: 'Gabarito', sans-serif;
+     text-align: center;
+}
+
+.about-h1{
+
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 50px;
+    
+}
+
+.about-p{
+
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding-left: 100px;
+    padding-right:100px ;
+}
+
+.card{
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+    
+}
+
+.card-h1{
+    text-align: center;
+}
+.card-p{
+    text-align: center;
+padding: 20px;
+}
+
+.img-aptos{
+    height: 250px;
+    margin: 20px;
+    margin-left: 50px;
+}
+
+.card:hover{
+    color:rgb(254, 105, 68);
+
+}
+.telegram{
+    height: 80px;
+}
+.twitter{
+    height: 80px;
+}
+.email{
+    height: 80px;
+}
+
+.social-icon{
+    text-align: center;
+}
+.contact-us{
+    margin: 50px;
+    background-color: transparent;
+}
